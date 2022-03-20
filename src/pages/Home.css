@@ -1,0 +1,134 @@
+*{
+    margin-top: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container{
+    display: flex;
+    margin: 0 50px;
+}
+
+.left{
+    display: flex;
+    margin: 0px 20px;
+    flex: 1;
+}
+
+.right{
+    display: flex;
+}
+
+.btnLogin{
+    height: 50px;
+    width: 100px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 2px solid rgba(189, 7, 7, 1);
+    color: rgba(189, 7, 7, 1);
+    font-weight: bold;
+}
+
+.btnRegister{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border: 2px solid rgba(189, 7, 7, 1);
+    background-color: rgba(189, 7, 7, 1);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.mainLanding{
+    margin: 50px 120px;
+}
+
+.banner{
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    width: 100%;
+}
+
+.content{
+    display: flex;
+    background-color: rgba(189, 7, 7, 1);
+    height: 400px;
+    width: 900px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+.descript{
+    padding: 50px;
+    width: 400px;
+    margin-left: 100px;
+}
+
+.title{
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.titleOrder{
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 45px;
+    margin-top:50px;
+    color: rgba(189, 7, 7, 1);
+    
+}
+
+.contentOrder{
+    display: flex;
+}
+
+.order1{
+    margin-left: 30px;
+    background-color: rgb(187, 138, 138);
+    border-radius: 15px;
+    color: rgba(189, 7, 7, 1);
+}
+
+.order2{
+    margin-left: 5px;
+    background-color: rgb(187, 138, 138);
+    border-radius: 15px;
+    color: rgba(189, 7, 7, 1);
+}
+.order3{
+    margin-left: 5px;
+    background-color: rgba(246, 218, 218, 1);
+    border-radius: 15px;
+    color: rgba(189, 7, 7, 1);
+}
+.order4{
+    margin-left: 5px;
+    background-color: rgba(246, 218, 218, 1);
+    border-radius: 15px;
+    color: rgba(189, 7, 7, 1);
+}
+
+.descriptOrder1{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.descriptOrder2{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.descriptOrder3{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.descriptOrder4{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.buttonOrder{
+    border: none;
+    text-align: left;
+    color: rgba(189, 7, 7, 1);
+    border-radius: 15px;
+}

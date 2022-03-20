@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Create base URL API
 export const API = axios.create({
-  baseURL: "https://waysbuck27.herokuapp.com/api/v1",
+  baseURL: "https://waysbuck12.herokuapp.com/api/v1",
 });
 
 // Set Authorization Token Header
